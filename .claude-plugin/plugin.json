@@ -1,0 +1,7 @@
+{
+  "name": "relevo",
+  "version": "0.2.0",
+  "author": { "name": "Gabriel Espelleta" },
+  "description": "Conecta chats abiertos entre sí y delega tareas a otros modelos (Haiku, Sonnet, Opus, Fable)",
+  "types": "./types/index.d.ts"
+}

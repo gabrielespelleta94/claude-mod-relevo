@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod-relevo",
+  "owner": { "name": "Gabriel Espelleta" },
+  "plugins": [{ "name": "relevo", "source": "./" }]
+}
